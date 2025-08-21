@@ -1,0 +1,76 @@
+<item>
+	<title>PACKAGE_NAME Predictions Based on Artificial Intelligence: Returns up to RETURNS_1_FULL% in FORECAST_LENGTH</title>
+            <link>SITE_URLfr-PACKAGE_URL_NAME-forecast-based-on-artificial-intelligence-returns-up-to-RETURNS_1_LEFT-RETURNS_1_RIGHT-in-LENGTH_NUM-LENGTH_UNIT</link>
+            <dc:creator><![CDATA[Dario]]></dc:creator>
+            <guid isPermaLink="true"></guid>
+            <description></description>
+            <content:encoded><![CDATA[<h2>PACKAGE_NAME</h2>
+                <p style="text-align: justify;">HEADER_PARAGRAPH</p>
+                <ul style="color: #0a0a0a;">
+                <li>Top 10 PACKAGE_NAME picks for the long position</li>
+                <li>Top 10 PACKAGE_NAME picks for the short position</li>
+                
+                </ul>
+                ICON_LINK
+                <strong>Package Name: </strong>PACKAGE_CATEGORY
+                <strong>Recommended Positions: </strong>FORECAST_DIRECTION
+                <strong>Forecast Length: </strong>FORECAST_LENGTH (START_DATE - END_DATE)
+                <strong>I Know First Average: </strong>AVERAGE_RETURN%
+                <a href="http://lpage.iknowfirst.com/" rel="attachment wp-att-35019"><img class="aligncenter wp-image-37141 size-full" src="SITE_URLYYYY/MM/GIF_NAME" alt="PACKAGE_NAME Forecast" width="555" height="474" /></a>
+                
+                
+                This PACKAGE_CATEGORY Package correctly predicted HIT_NUM out of 10 stock movements. The top performing prediction from this package was <em>ASSET_1</em> with a return of RETURNS_1_FULL%. <em>ASSET_2</em>, and <em>ASSET_3</em> had notable returns of RETURNS_2% and RETURNS_3%. The package had an overall average return of AVERAGE_RETURN%, providing investors with a OUT_PERFORMANCE% premium over the BENCHMARK_NAME return of BENCHMARK_RETURN% during the period.
+                
+                COMPANY_INFO
+                
+                <em>Algorithmic traders utilize these daily forecasts by the I Know First market prediction system as a tool to enhance portfolio performance, verify their own analysis and act on market opportunities faster. This forecast was sent to current I Know First subscribers.</em>
+                
+                <h2 class=\"p1\" style=\"text-align: center;\"><a href="https://iknowfirst.com/stock-market-predictions-how-to-interpret-the-i-know-first-diagram">How to interpret this diagram</a></h2>
+                <strong>Algorithmic Stock Forecast:</strong> The table on the left is a stock forecast produced by I Know First's algorithm. Each day, subscribers receive forecasts for six different time horizons. Note that the top 10 stocks in the 1-month forecast may be different than those in the 1-year forecast. In the included table, only the relevant stocks have been included. The boxes are arranged according to their respective signal and predictability values (see below for detailed definitions). A green box represents a positive forecast, suggesting a long position, while a red represents a negative forecast, suggesting a short position.
+                
+                <strong>Please note-for trading decisions use the most recent forecast. </strong><a href="http://lpage.iknowfirst.com\"><strong><span style=\"color: #0000ff;\">Get today’s forecast and Top stock picks.</span></strong></a>
+                
+                
+                
+                
+            ]]></content:encoded>
+            <excerpt:encoded><![CDATA[<img class="alignright wp-image-38544" src="https://iknowfirst.com/wp-content/uploads/2016/06/PACKAGE_SLUG.png" alt="PACKAGE_CATEGORY" width="165" height="54">
+                <strong>Package Name: </strong>PACKAGE_CATEGORY<br>
+                <strong>Recommended Positions: </strong>Long<br>
+                <strong>Forecast Length: </strong>FORECAST_LENGTH (START_DATE - END_DATE)<br>
+                <strong>I Know First Average: </strong>AVERAGE_RETURN%<br>
+                <a href="https://iknowfirst.com/fr-PACKAGE_URL_NAME-forecast-based-on-artificial-intelligence-returns-up-to-RETURNS_1_LEFT-RETURNS_1_RIGHT-in-LENGTH_NUM-LENGTH_UNIT"><h2>Read The Full Forecast</h2></a>
+                <a href="https://iknowfirst.com/fr-PACKAGE_URL_NAME-forecast-based-on-artificial-intelligence-returns-up-to-RETURNS_1_LEFT-RETURNS_1_RIGHT-in-LENGTH_NUM-LENGTH_UNIT" rel="attachment wp-att-35019"><img class="aligncenter wp-image-37141 size-full" src="SITE_URLYYYY/MM/GIF_NAME" alt="PACKAGE_NAME Forecast" width="555" height="474" /></a>
+            ]]></excerpt:encoded>
+            <wp:post_id></wp:post_id>
+            <wp:post_date>YYYY-MM-DD HH:MINUTE:SS</wp:post_date>
+            <wp:post_date_gmt>YYYY-MM-DD GMT_H:MINUTE:SS</wp:post_date_gmt>
+            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+            <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+            <wp:post_name><![CDATA[fr-PACKAGE_URL_NAME-forecast-based-on-artificial-intelligence-returns-up-to-RETURNS_1_LEFT-RETURNS_1_LEFT-in-LENGTH_NUM-LENGTH_UNIT]]></wp:post_name>
+            <wp:status>private</wp:status>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type><![CDATA[post]]></wp:post_type>
+            <wp:post_password><![CDATA[]]></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <category domain="post_tag" nicename="ASSET_LOWER_1"><![CDATA[ASSET_1]]></category>
+            <category domain="post_tag" nicename="ASSET_LOWER_2"><![CDATA[ASSET_2]]></category>
+            <category domain="post_tag" nicename="ASSET_LOWER_3"><![CDATA[ASSET_3]]></category>
+            <category domain="post_tag" nicename="ASSET_LOWER_4"><![CDATA[ASSET_4]]></category>
+            <category domain="post_tag" nicename="ASSET_LOWER_5"><![CDATA[ASSET_5]]></category>
+            <category domain="post_tag" nicename="ASSET_LOWER_6"><![CDATA[ASSET_6]]></category>
+            <category domain="post_tag" nicename="ASSET_LOWER_7"><![CDATA[ASSET_7]]></category>
+            <category domain="post_tag" nicename="ASSET_LOWER_8"><![CDATA[ASSET_8]]></category>
+            <category domain="post_tag" nicename="ASSET_LOWER_9"><![CDATA[ASSET_9]]></category>
+            <category domain="post_tag" nicename="ASSET_LOWER_10"><![CDATA[ASSET_10]]></category>
+            <category domain="category" nicename="PACKAGE_NAME"><![CDATA[PACKAGE_NAME]]></category>
+            <wp:postmeta>
+                <wp:meta_key><![CDATA[_yoast_wpseo_focuskw_text_input]]></wp:meta_key>
+                <wp:meta_value><![CDATA[PACKAGE_NAME Forecast]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+                <wp:meta_value><![CDATA[PACKAGE_NAME Forecast]]></wp:meta_value>
+            </wp:postmeta>
+</item>

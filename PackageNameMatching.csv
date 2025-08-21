@@ -1,0 +1,179 @@
+FileNameKeyword,PackageName,Subpackage
+IKForecast_52wk_high,52 Week High Stocks,None
+IKForecast_52wk_low,52 Week Low Stocks,None
+IKForecast_top_10_52wk_low,52 Week Low Stocks,None
+IKForecast_Aggressive,Aggressive Stocks Forecast,None
+IKForecast_top_10_aggressive,Aggressive Stocks Forecast,None
+IKForecast_AAPL,Apple Stock Forecasts,None
+IKForecast_AAPL_SP500,Apple Stock Forecasts,None
+IKForecast_Australia,Australian Stocks,None
+IKForecast_top_10_Australia,Australian Stocks,None
+IKForecast_Automotive,Automotive Stock Forecast,None
+IKForecast_Banks,Bank Stock Forecast,None
+IKForecast_BasicIndustry,Basic Industry Forecast,None
+IKForecast_Industrials,Basic Industry Forecast,None
+IKForecast_BIOTECH,Biotech Stocks Forecast,None
+IKForecast_BIOTECH_Top10,Biotech Stocks Forecast,None
+IKForecast_Top_10_BIOTECH,Biotech Stocks Forecast,None
+IKForecast_BITCOIN,Bitcoin,None
+IKForecast_Bovespa,Bovespa,None
+IKForecast_Bovespa1,Bovespa,None
+IKForecast_top_10_Bovespa1,Bovespa,None
+IKForecast_Brazil,Brazil Stock Forecast,None
+IKForecast_CANADA,Canadian Stock Forecast,None
+IKForecast_Top_10_CANADA,Canadian Stock Forecast,None
+IKForecast_Top_20_CANADA,Canadian Stock Forecast,None
+IKForecast_Chemicals,Chemicals Stocks,None
+IKForecast_ChinaETFs,Chinese ETFs Forecast,None
+IKForecast_China,Chinese Stock Forecast,None
+IKForecast_ComputerIndustry,Computer Industry,None
+IKForecast_top_10_conservative,Conservative Stock Forecast,None
+IKForecast_Consumer,Consumer Stocks,None
+IKForecast_Currencies,Currency Forecast,None
+IKForecast_top_10_dividend,Dividend Stocks Forecast,None
+IKForecast_Energy,Energy Stocks Forecast,None
+IKForecast_Energy_Top10,Energy Stocks Forecast,None
+IKForecast_EquityETFs,ETFs Forecast,None
+IKForecast_top10_ETFs,ETFs Forecast,None
+IKForecast_top_10_ETFs,ETFs Forecast,None
+IKForecast_top_10_EUROPE_ETFs,European ETFs Forecast,None
+IKForecast_EUROPE_ETFs,European ETFs Forecast,None
+IKForecast_EUROPE,European Stock Forecast,None
+IKForecast_top_10_EUROPE,European Stock Forecast,None
+IKForecast_French,French Stock Forecast,None
+IKForecast_HighPEG,Fundamental,High PEG Stocks
+IKForecast_Top_10_highPEG,Fundamental,High PEG Stocks
+IKForecast_HighPSales,Fundamental,High price-to-sales ratio Stocks
+IKForecast_LowPEG,Fundamental,Low PEG Stocks
+IKForecast_LowPE_,Fundamental,Low P/E Stocks
+IKForecast_LowPE_Top10,Fundamental,Low P/E Stocks
+IKForecast_LowPEstocks,Fundamental,Low P/E Stocks
+IKForecast_LowPrice_Book,Fundamental,Low price-to-book ratio Stocks
+IKForecast_LowPSales,Fundamental,Low price-to-sales ratio Stocks
+IKForecast_Top_10_LowPE_,Fundamental,Low P/E Stocks
+IKForecast_Top_10_LowPEG,Fundamental,Low PEG Stocks
+IKForecast_Top_10_LowPrice_Book,Fundamental,Low price-to-book ratio Stocks
+IKForecast_Top_10_LowPSales,Fundamental,Low price-to-sales ratio Stocks
+IKForecast_Futures,Futures,None
+IKForecast_Germany,German Stock Forecast,None
+IKForecast_Commodity_Futures,Gold & Commodity Forecast,Commodity Futures
+IKForecast_Commodity_ETFs,Gold & Commodity Forecast,Commodity ETFs
+IKForecast_Commodities,Gold & Commodity Forecast,Commodities
+IKForecast_XAU_GLD_XAG,Gold & Commodity Forecast,Gold
+IKForecast_HealthCare,Healthcare,None
+IKForecast_Top_10_HealthCare,Healthcare,None
+IKForecast_HedgeFunds,Hedge Fund Stocks,None
+IKForecast_stocks_top_10_HedgeFunds,Hedge Fund Stocks,None
+IKForecast_DVSF_Hedge,Hedge Fund Stocks,None
+IKForecast_Price_5_to_30_Vol_over_Mil,High Option Volume Stocks Forecast,None
+IKForecast_Homebuilders,Home Builders,None
+IKForecast_HK,Hong Kong Stock Forecast,None
+IKForecast_HK_HSI_stocks,Hong Kong Stock Forecast,None
+IKForecast_HONGKONG,Hong Kong Stock Forecast,Hong Kong Stock Forecast
+IKForecast_Top_10_HONGKONG,Hong Kong Stock Forecast,Hong Kong Stock Forecast
+IKForecast_MSCI_HONGKONG,Hong Kong Stock Forecast,MSCI - Hong Kong Stock Forecast
+IKForecast_top_10_MSCI_HONGKONG,Hong Kong Stock Forecast,MSCI - Hong Kong Stock Forecast
+IKForecast_India,Indian Stock Forecast,None
+IKForecast_India_stocks,Indian Stock Forecast,None
+IKForecast_Top10_India,Indian Stock Forecast,None
+IKForecast_Top_10_India,Indian Stock Forecast,None
+IKForecast_Indexes,Indices Forecast,None
+IKForecast_indexes_world,Indices Forecast,None
+IKForecast_Indonesia,Indonesian Stocks,None
+IKForecast_Insider,Insider Trades,None
+IKForecast_InsiderBuys,Insider Trades,None
+IKForecast_InsiderTrades,Insider Trades,None
+IKForecast_Top_10_InsiderBuys,Insider Trades,None
+IKForecast_Top_10_InsiderTrades,Insider Trades,None
+IKForecast_InsuranceCompanies,Insurance Companies Forecast,None
+IKForecast_InterestRates,Interest Rates Forecast,None
+IKForecast_Argentina,International Stocks,None
+IKForecast_Chile,International Stocks,None
+IKForecast_Denmark,International Stocks,None
+IKForecast_Dubai,International Stocks,None
+IKForecast_Finland,International Stocks,None
+IKForecast_Ireland,International Stocks,None
+IKForecast_Korea,International Stocks,None
+IKForecast_top_10_Korea,International Stocks,None
+IKForecast_Kuwait,International Stocks,None
+IKForecast_top_10_Kuwait,International Stocks,None
+IKForecast_Malaysia,International Stocks,None
+IKForecast_Mexico,International Stocks,None
+IKForecast_MULTINATIONALS,International Stocks,None
+IKForecast_NewZealand,International Stocks,None
+IKForecast_Nigeria,International Stocks,None
+IKForecast_Norway,International Stocks,None
+IKForecast_Philippines,International Stocks,None
+IKForecast_Poland,International Stocks,None
+IKForecast_SaudiArab,Saudi Arabian Stocks,None
+IKForecast_top_10_SaudiArab,Saudi Arabian Stocks,None
+IKForecast_Singapore,Singaporean Stock Forecast,None
+IKForecast_Taiwan,Taiwanese Stock Forecast,None
+IKForecast_Thailand,International Stocks,None
+IKForecast_Switzerland,Swiss Stocks,None
+IKForecast_Peru,International Stocks,None
+IKForecast_Italy,Italian Stocks,None
+IKForecast_Japan,Japan Stock Forecast,Japanese Stocks
+IKForecast_top_10_Japan,Japan Stock Forecast,Japanese Stocks
+IKForecast_Nikkei225,Japan Stock Forecast,Nikkei 225 Stocks
+IKForecast_top_10_Nikkei225,Japan Stock Forecast,Nikkei 225 Stocks
+IKForecast_Israel_ADRs,Israeli Stocks - Dualic Stocks,None
+IKForecast_top_10_big_Israel,Israeli Stocks - TASE 35,None
+IKForecast_top_10_Israel,Israeli Stocks,None
+IKForecast_Israel,Israeli Stocks,None
+IKForecast_Price_5_to_30,Low Price High Volume Stocks,None
+IKForecast_Medicine,Medicine Stocks,None
+IKForecast_Medicine_Top10,Medicine Stocks,None
+IKForecast_Mega_Cap,Mega Cap Forecast,None
+IKForecast_Microsoft Stock Forecast,Microsoft Stock Forecast,None
+IKForecast_MLP,MLP Stocks,None
+IKForecast_Netherlands,Netherlands Stocks,None
+IKForecast_Oil,Oil Forecast,None
+IKForecast_Top_10_OPTIONS,Options,None
+IKForecast_OPTIONS,Options,None
+IKForecast_Pharma,Pharma Stocks Forecast,None
+IKForecast_Pharma_Top_10,Pharma Stocks Forecast,None
+IKForecast_stocks_top_10_Pharma,Pharma Stocks Forecast,None
+IKForecast_RealEstateIndustry,Real Estate Stock Forecast,None
+IKForecast_Russia,Russian Stock Forecast,None
+IKForecast_SP100_stocks,S&P 100 Stocks,None
+IKForecast_SP500_stocks,S&P500 Companies,None
+IKForecast_SP500_stocks_Top10,S&P500 Companies,None
+IKForecast_Top_10_Small_Cap,Small Cap Forecast,None
+IKForecast_small_cap,Small Cap Forecast,None
+IKForecast_top_10_small_cap,Small Cap Forecast,None
+IKForecast_SouthAfrica,South African Stocks,None
+IKForecast_Spain,Spanish Stocks,None
+IKForecast_Top_10_SP500,Stock Forecast & S&P500 Forecast,None
+IKForecast_Top_10_SP500_stocks,Stock Forecast & S&P500 Forecast,None
+IKForecast_stocks_top_10_SP500,Stock Forecast & S&P500 Forecast,None
+IKForecast_stocks_top_20_SP500,Stock Forecast & S&P500 Forecast,None
+IKForecast_stocks_top_40_SP500,Stock Forecast & S&P500 Forecast,None
+IKForecast_top_10_UNDER_50,Stocks Under $50,None
+IKForecast_UNDER_50,Stocks Under $50,None
+IKForecast_top_10_UNDER_20,Stocks Under $20,None
+IKForecast_UNDER_20,Stocks Under $20,None
+IKForecast_top_10_UNDER_10,Stocks Under $10,None
+IKForecast_under_10,Stocks Under $10,None
+IKForecast_top_10_UNDER_5,Stocks Under $5,None
+IKForecast_under_5,Stocks Under $5,None
+IKForecast_BigTech,Tech Giants Stocks Forecast,None
+IKForecast_top_10_BigTech,Tech Giants Stocks Forecast,None
+IKForecast_top_10_Tech,Tech Stocks Forecast,None
+IKForecast_Tech,Tech Stocks Forecast,None
+IKForecast_TransportationCo,Transportation Stocks,None
+IKForecast_Turkey,Turkish Stock Forecast,None
+IKForecast_UK,UK Stock Forecast,None
+IKForecast_top_10_UK,UK Stock Forecast,None
+IKForecast_US_Sector_Indices,US Sector Indices Forecast,None
+IKForecast_VOLATILITY,Volatility Forecast,None
+IKForecast_BUFFETT,Warren Buffett Portfolio,None
+IKForecast_BUFFETT_Top10,Warren Buffett Portfolio,None
+IKForecast_stocks_top_10_BUFFETT,Warren Buffett Portfolio,None
+IKForecast_MSCI_ACWI_East,MSCI Stocks Universe,Eastern Markets
+IKForecast_MSCI_ACWI_West,MSCI Stocks Universe,Western Markets
+IKForecast_robinhood,Robinhood Trades,None
+IKForecast_Shenzhen,Shenzhen Stock Forecast,None
+IKForecast_top_10_Shenzhen,Shenzhen Stock Forecast,None
+IKForecast_Shanghai,Shanghai Stock Forecast,None
+IKForecast_top_10_Shanghai,Shanghai Stock Forecast,None

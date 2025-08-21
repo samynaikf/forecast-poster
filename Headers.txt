@@ -1,0 +1,1246 @@
+###START###
+Australian Stocks
+Best Australian Stocks: This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+
+<ul>
+	<li>Top ###TOPN### Australian stocks for the long position </li>
+	<li>Top ###TOPN### Australian stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Australian Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (02/12/2016 – 02/15/2015)
+<strong>I Know First Average: </strong>8.57%
+
+Futures
+The left-hand graph shows the futures predictor forecast from ###FORECASTDATE-MONTH### ###FORECASTDATE-DAY###, ###FORECASTDATE-YEAR###, which includes long and short recommendations. The green boxes are long signals while the red boxes are short signals. The right-hand side shows the returns of the suggested futures from ###FORECASTDATE-MONTH### ###FORECASTDATE-DAY###, ###FORECASTDATE-YEAR### to ###TARGETDATE-MONTH### ###TARGETDATE-DAY###, ###TARGETDATE-YEAR###.
+<strong>Package Name:</strong> Futures
+<strong>Forecast Length:</strong> 7 Days (08/30/16 – 09/06/16)
+<strong>I Know First Hit Ratio:</strong> 69.23%
+
+
+Low Price High Volume Stocks 
+The High Volume Stocks Package is designed for investors and analysts who need predictions for stocks currently trading under ten dollars, and with an average daily trading volume above one million dollars. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best shares to buy and sell:
+<ul>
+ 	<li>Low Price High Volume Stocks Top ###TOPN### stocks for the long position</li>
+ 	<li>Low Price High Volume Stocks  Top ###TOPN### stocks for the short position</li>
+</ul>
+<img class="wp-image-93440 alignright" src="https://iknowfirst.com/wp-content/uploads/2017/01/high-volume-stock1-Recovered-3.jpg" alt="" width="143" height="103"/>
+<strong>Package Name:</strong> Low Price High Volume Stocks 
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length</strong>: 3 Days (09/14/16 – 09/17/16)
+<strong>I Know First Average</strong>: 5.08%
+
+
+High Volume Stocks 
+The High Volume Stocks Package is designed for investors and analysts who need predictions for stocks currently trading between 5 and 30 dollars, and with an average daily trading volume above one million dollars. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best shares to buy and sell:
+<ul>
+ 	<li>High Volume Stocks Top ###TOPN### stocks for the long position</li>
+ 	<li>High Volume Stocks Top ###TOPN### stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-37906" src="https://iknowfirst.com/wp-content/uploads/2017/01/High-Volume-Stocks.jpg" alt="Best Share To Buy" width="123" height="67" />
+<strong>Package Name:</strong> High Volume Stocks 
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length</strong>: 3 Days (09/14/16 – 09/17/16)
+<strong>I Know First Average</strong>: 5.08%
+
+
+52 Week High Stocks
+The 52 Week High Stocks Package is designed for investors and analysts who need predictions for stocks currently at their 52-week high price level. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best shares to buy and sell:
+<ul>
+ 	<li>52 Weeks High Top ###TOPN### stocks for the long position</li>
+ 	<li>52 Weeks High Top ###TOPN### stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-37906" src="https://iknowfirst.com/wp-content/uploads/2016/05/52-week-high-icon.jpg" alt="Best Share To Buy" width="189" height="62" />
+<strong>Package Name:</strong> 52 Weeks High Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length</strong>: 3 Days (09/14/16 – 09/17/16)
+<strong>I Know First Average</strong>: 5.08%
+
+
+52 Week Low Stocks
+The 52 Week Low Stocks Package is designed for investors and analysts who need predictions for stocks currently at their 52-week low price level, offering the best market opportunities based on algo-trading. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best stocks to invest in:
+<ul>
+ 	<li>52 Weeks Low Top ###TOPN### stocks for the long position</li>
+ 	<li>52 Weeks Low Top ###TOPN### stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-36921" src="https://iknowfirst.com/wp-content/uploads/2016/05/52-Week-Low-Stocks.png" alt="52 Week Low Stocks" width="165" height="54" />
+<strong>Package Name:</strong> 52 Week Low Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length</strong>: 14 Days (08/30/16 – 09/13/16)
+<strong>I Know First Average</strong>: 2.51% (long) 7.76 (short)
+
+
+Aggressive Stocks Forecast
+This forecast is part of the Risk-Conscious Package, as one of I Know First's equity research solutions. We determine our aggressive stock picks by screening our algorithm daily for higher volatility stocks that present greater opportunities but are also riskier. The full Risk-Conscious Package includes a daily forecast for a total of 40 stocks divided into four main categories:
+
+<ul>
+ 	<li>Top ###TOPN### Aggressive stocks for the long position</li>
+ 	<li>Top ###TOPN### Aggressive stocks for the short position</li>
+ 	<li>Top ###TOPN### Conservative stocks for the long position</li>
+ 	<li>Top ###TOPN### Conservative stocks for the short position</li>
+</ul>
+<img class="wp-image-36402 alignright" src="https://iknowfirst.com/wp-content/uploads/2016/11/Risk-Conscious-stocks-300x98.jpg" alt="" width="165" height="54" />
+<strong>Package Name:</strong> Risk-Conscious - Aggressive Stocks Forecast
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 7 Days (09/01/16 - 09/08/16)
+<strong>I Know First Average</strong>: 8.11%
+
+
+Automotive Stock Forecast
+This Automotive Stocks forecast is designed for investors and analysts who need predictions of the best-performing stocks in the automotive industry (see Automotive Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best auto stocks to trade:
+<ul>
+ 	<li>Top ###TOPN### Automotive stocks for the long position</li>
+ 	<li>Top ###TOPN### Automotive stocks for the short position</li>
+</ul>
+<strong>Package Name: </strong>Automotive Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 7 Days (08/30/16 – 09/06/16)
+<strong>I Know First Average</strong>: 7.23%
+
+
+Bank Stock Forecast
+This forecast is designed for investors and analysts who need predictions of Bank Stocks (see Bank Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best bank stocks to trade:
+<ul>
+ 	<li>Top ###TOPN### Bank stocks for the long position</li>
+ 	<li>Top ###TOPN### Bank stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-37648" src="https://iknowfirst.com/wp-content/uploads/2016/05/Bank-Stock-Forecast.png" alt="Bank Stock Forecast" width="165" height="54" />
+<strong>Package Name:</strong> Bank Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Year (09/13/15 – 09/14/16)
+<strong>I Know First Average:</strong> 19.64%
+
+
+
+Basic Industry Forecast
+This Basic Industry forecast is designed for investors and analysts who need daily stock market predictions of the best-performing stocks for the whole Basic Industry (see Basic Industry Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best basic industry stocks to buy based on artificial intelligence:
+
+<ul>
+ 	<li>Top ###TOPN### Basic Industry stocks for the long position</li>
+ 	<li>Top ###TOPN### Basic Industry stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-36397" src="https://iknowfirst.com/wp-content/uploads/2016/05/basic-industry-300x98.png" alt="Stock Market Prediction Algorithm" width="165" height="54" />
+<strong>Package Name:</strong> Basic Industry Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (06/13/16 – 09/13/16)
+<strong>I Know First Average:</strong> 22.37%
+
+
+Biotech Stocks Forecast
+The BioTech Stocks Package is designed for investors and analysts who need predictions of the best stocks to buy for the whole Biotechnology Industry. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best biotech stocks to trade:
+
+<ul>
+ 	<li>Top ###TOPN### Biotech stocks for the long position</li>
+ 	<li>Top ###TOPN### Biotech stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-36839" src="https://iknowfirst.com/wp-content/uploads/2016/05/biotech.png" alt="BioTech Stocks" width="162" height="53" />
+<strong>Package Name:</strong> BioTech Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (09/11/16– 09/14/16)
+<strong>I Know First Average:</strong> 3.79%
+
+Bitcoin
+The Bitcoin Package is designed for investors and analysts who need predictions of the best cryptocurrencies to buy. It includes 3 predictions with bullish and bearish signals and indicates the predicted direction in the given time horizon for the cryptocurrencies:
+<ul>
+</ul>
+<img class="alignright wp-image-36839" src="https://iknowfirst.com/wp-content/uploads/2016/05/biotech.png" alt="BioTech Stocks" width="162" height="53" />
+<strong>Package Name:</strong>Bitcoin
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (09/11/16– 09/14/16)
+<strong>I Know First Hit Ratio:</strong> 3.79%
+
+Bovespa
+This Bovespa Stock forecast was generated by the I Know First Algorithm through its analysis of market data and is part of the By Country Package. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Bovespa stocks for the long position </li>
+ 	<li>Top ###TOPN### Bovespa stocks for the short position </li>
+</ul>
+<img class="alignright wp-image-36928" src="https://iknowfirst.com/wp-content/uploads/2016/05/Brazil-Stock-Forecast-.png" width="144" height="47" />
+<strong>Package Name: </strong>Bovespa
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length: </strong>3 Months (06/15/16 – 09/15/16)
+<strong>I Know First Average</strong>: 45.85%
+
+Brazil Stock Forecast
+This Brazil Stock forecast was generated by the I Know First Algorithm through its analysis of market data and is part of the By Country Package. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Brazil stocks for the long position </li>
+ 	<li>Top ###TOPN### Brazil stocks for the short position </li>
+</ul>
+<img class="alignright wp-image-36928" src="https://iknowfirst.com/wp-content/uploads/2016/05/Brazil-Stock-Forecast-.png" width="144" height="47" />
+<strong>Package Name: </strong>By Country - Brazilian Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length: </strong>3 Months (06/15/16 – 09/15/16)
+<strong>I Know First Average</strong>: 45.85%
+
+
+Canadian Stock Forecast
+This Canadian Stocks forecast is part of the By Country Package, as one of I Know First's systematic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### top Canadian stocks with bullish and bearish signals:
+
+<ul>
+ 	<li>Top ###TOPN### Canadian stocks for the long position </li>
+ 	<li>Top ###TOPN### Canadian stocks for the short position </li>
+</ul>
+
+<img class="alignright wp-image-36398" src="https://iknowfirst.com/wp-content/uploads/2016/05/canadian-stocks-300x98.png" alt="" width="165" height="54" />
+<strong>Package Name: </strong>By Country - Canadian Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (05/29/16 – 08/29/16)
+<strong>I Know First Average:</strong> 20.24%
+
+
+Chemicals Stocks
+This Chemicals Stocks forecast is designed for investors and analysts who need predictions of the best chemical stocks to buy for the whole Chemistry Industry (see Chemicals Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best chemical stocks to buy:
+
+<ul>
+ 	<li>Top ###TOPN### Chemical stocks for the long position</li>
+ 	<li>Top ###TOPN### Chemical stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-39238" src="https://iknowfirst.com/wp-content/uploads/2016/06/chemical-300x98.jpg" alt="Chemical Stock Forecast" width="165" height="54" />
+<strong>Package Name:</strong> Chemicals Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (05/15/16– 06/15/16)
+<strong>I Know First Average:</strong> 9.07%
+
+
+Chinese Stock Forecast
+Top Performing Chinese Stocks: This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+
+<ul>
+	<li>Top ###TOPN### Chinese stocks for the long position </li>
+	<li>Top ###TOPN### Chinese stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Chinese Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (9/8/15 – 12/8/15)
+<strong>I Know First Average</strong>: 17.86%
+
+
+Computer Industry
+The Computer Industry Stocks Package is designed for investors and analysts who need predictions of the best-performing stocks for the whole Computer Industry. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best stocks to buy in the computer industry:
+
+<ul>
+ 	<li>Top ###TOPN### Computer Industry stocks for the long position</li>
+ 	<li>Top ###TOPN### Computer Industry stocks for the short position</li>
+</ul>
+
+<img class=" wp-image-37897 alignright" src="https://iknowfirst.com/wp-content/uploads/2016/05/Computer-Industry-1.png" alt=Computer Industry" width="168" height="55" />
+<strong>Package Name:</strong> Computer Industry Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length</strong>: 1 Months (08/05/16 – 09/05/16)
+<strong>I Know First Average:</strong> 12.45%
+
+
+Conservative Stock Forecast
+This Conservative Stock forecast is part of the Risk-Conscious Package, as one of I Know First's quantitative investment solutions. We determine our best defensive stocks by screening our database daily for lower volatility stocks that are less risky. The full Risk-Conscious Package includes a daily forecast for a total of 40 stocks divided into four main categories:
+<ul>
+ 	<li>Top ###TOPN### Conservative stocks for the long position </li>
+ 	<li>Top ###TOPN### Conservative stocks for the short position </li>
+ 	<li>Top ###TOPN### Aggressive stocks for the long position </li>
+ 	<li>Top ###TOPN### Aggressive stocks for the short position </li>
+</ul>
+
+<img class="alignright wp-image-36402" src="https://iknowfirst.com/wp-content/uploads/2016/05/Risk-Conscious-stocks.png" alt="Risk Conscious stocks" width="165" height="54" />
+<strong>Package Name:</strong> Risk-Conscious - Conservative Stock Forecast
+<strong>Recommended Positions: </strong>Long
+<strong>Forecast Length:</strong> 1 Month (07/08/2016 – 08/08/2016)
+<strong>I Know First Average</strong>: 18.45%
+
+
+Consumer Stocks
+The Consumer Stocks Package is designed for investors and analysts who need predictions of the best performing stocks for the whole Consumer Industry. It includes ###TOPN2### stocks with bullish and bearish signals.
+<ul>
+	<li>Top ###TOPN### Consumer stocks for the long position</li>
+	<li>Top ###TOPN### Consumer stocks for the short position</li>
+</ul>
+<strong>Package Name:</strong> Consumer Stocks
+<strong>Recommended Positions: </strong>Long
+<strong>Forecast Length</strong>: 14 days (11/24/15 – 12/8/15)
+<strong>I Know First Average:</strong> 12.45%
+
+Currency Forecast
+The left-hand graph shows the currency predictor forecast from ###FORECASTDATE-MONTH### ###FORECASTDATE-DAY###, ###FORECASTDATE-YEAR###, which includes long and short recommendations. The green boxes are long signals while the red boxes are short signals. The right-hand side shows the returns of the suggested currency pairs from ###FORECASTDATE-MONTH### ###FORECASTDATE-DAY###, ###FORECASTDATE-YEAR### to ###TARGETDATE-MONTH### ###TARGETDATE-DAY###, ###TARGETDATE-YEAR###.
+<img class="size-full wp-image-36334 alignright" src="https://iknowfirst.com/wp-content/uploads/2016/05/curency-165.jpg" alt="curency 165" width="165" height="54" />
+<strong>Package Name:</strong> Currencies
+<strong>Forecast Length:</strong> 7 Days (08/30/16 – 09/06/16)
+<strong>I Know First Hit Ratio:</strong> 69.23%
+
+
+Netherlands Stocks
+Best Dutch Stocks: This Netherlands Stock forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes a daily prediction for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+	<li>Top ###TOPN### Dutch stocks for the long position </li>
+	<li>Top ###TOPN### Dutch stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Netherlands Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (7/10/15 – 8/10/15)
+<strong>I Know First Average</strong>: 6.14%
+
+Dividend Stocks Forecast
+This forecast is part of the Dividends Package, as one of I Know First's quantitative investment solutions. We determine the best stocks carrying a dividend by screening our database daily using our advanced algorithm.  The full Dividends Package includes a daily forecast for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Dividend stocks for the long position </li>
+ 	<li>Top ###TOPN### Dividend stocks for the short position </li>
+</ul>
+
+<img class="alignright wp-image-36399" src="https://iknowfirst.com/wp-content/uploads/2016/05/dividend-stocks-.png" alt="dividend stocks" width="165" height="54" />
+<strong>Package Name: </strong>Dividends
+<strong>Recommended Positions: </strong>Long
+<strong>Forecast Length:</strong> 3 Months (06/07/2016 – 09/07/2016)
+<strong>I Know First Average:</strong> 15.04%
+
+Energy Stocks Forecast
+The Energy Stocks Package is based on the I Know First algorithm and is designed for investors and analysts who need recommendations for the best performing stocks for the whole Energy Industry. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best energy stocks to buy and sell:
+<ul>
+ 	<li>Top ###TOPN### Energy stocks for the long position</li>
+ 	<li>Top ###TOPN### Energy stocks for the short position</li>
+</ul>
+
+<img class="wp-image-41851 size-full alignright" src="https://iknowfirst.com/wp-content/uploads/2016/07/Energy_small.jpg" width="205" height="67" />
+<strong>Package Name:</strong> Energy Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 7 Days (09/05/16– 09/12/16)
+
+
+ETFs Forecast
+This forecast is part of the ETFs Package, as one of I Know First’s quantitative investment solutions. We determine the top ETFs by screening our database daily using our advanced algorithm. The full ETFs Package includes a daily forecast for a total of ###TOPN2### ETFs with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### ETFs for the long position</li>
+ 	<li>Top ###TOPN### ETFs for the short position</li>
+</ul>
+<strong>Package Name:</strong>ETFs Forecast
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (05/20/16 - 08/20/16)
+<strong>I Know First Average</strong>: 18.11%
+
+
+European ETFs Forecast
+This forecast is part of the ETFs Package, as one of I Know First’s quantitative investment solutions. We determine the top ETFs by screening our database daily using our advanced algorithm. The full ETFs Package includes a daily forecast for a total of ###TOPN2### ###KEYWORD1### ETFs with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### European ETFs for the long position</li>
+ 	<li>Top ###TOPN### European ETFs for the short position</li>
+</ul>
+<strong>Package Name:</strong>European ETFs Forecast
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (05/20/16 - 08/20/16)
+<strong>I Know First Average</strong>: 18.11%
+
+
+Chinese ETFs Forecast
+This forecast is part of the ETFs Package, as one of I Know First’s quantitative investment solutions. We determine the top ETFs by screening our database daily using our advanced algorithm. The full ETFs Package includes a daily forecast for a total of ###TOPN2### ###KEYWORD1### ETFs with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Chinese ETFs for the long position</li>
+ 	<li>Top ###TOPN### Chinese ETFs for the short position</li>
+</ul>
+<strong>Package Name:</strong>Chinese ETFs Forecast
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (05/20/16 - 08/20/16)
+<strong>I Know First Average</strong>: 18.11%
+
+
+European Stock Forecast
+This European Stocks forecast is part of the By Region Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### best European stocks based on artificial intelligence with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### European stocks for the long position </li>
+ 	<li>Top ###TOPN### European stocks for the short position </li>
+</ul>
+<img class="alignright wp-image-37481" src="https://iknowfirst.com/wp-content/uploads/2016/05/European-Stock-Forecast-1.png" alt="European Stock Forecast" width="165" height="54" />
+<strong>Package Name: </strong>By Region – European Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 – 09/16/16)
+<strong>I Know First Average:</strong> 24.31%
+
+
+French Stock Forecast
+Best French Stocks: This French Stock forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes a daily prediction for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+	<li>Top ###TOPN### French stocks for the long position </li>
+	<li>Top ###TOPN### French stocks for the short position </li>
+</ul>
+
+<strong>Package Name: </strong>By Country - French Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (7/10/15 – 8/10/15)
+<strong>I Know First Average</strong>: 6.14%
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong>
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - Low P/E Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Low P/E Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - High P/E Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> High P/E Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - Low PEG Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Low PEG Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - High PEG Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> High PEG Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - Low price-to-book ratio Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Low price-to-book ratio Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - High price-to-book ratio Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> High price-to-book ratio Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - Low price-to-sales ratio Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Low price-to-sales ratio Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - High price-to-sales ratio Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> High price-to-sales ratio Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - Low Short Ratio Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Low Short Ratio Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+Fundamental
+The Fundamental Package includes our algorithmic forecasts for stocks screened by fundamental criteria. Our algorithms help you find best opportunities for both long and short positions for the stocks within each fundamental screen. The stocks are selected according to five basic valuation categories:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="https://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Fundamental - High Short Ratio Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> High Short Ratio Stocks
+<strong>Forecast Length:</strong> 7 Days (9/12/16– 09/19/16)
+<strong>I Know First Average:</strong> 5.70%
+
+
+
+
+German Stock Forecast
+Best German Stocks: This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+
+<ul>
+	<li>Top ###TOPN### German stocks for the long position </li>
+	<li>Top ###TOPN### German stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - German Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (02/12/2016 – 02/15/2015)
+<strong>I Know First Average: </strong>8.57%
+
+Japan Stock Forecast
+Best Japan Stocks: This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+
+<ul>
+	<li>Top ###TOPN### Japan stocks for the long position </li>
+	<li>Top ###TOPN### Japan stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Japan Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (02/12/2016 – 02/15/2015)
+<strong>I Know First Average: </strong>8.57%
+
+Russian Stock Forecast
+Best Russian Stocks: This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+
+<ul>
+	<li>Top ###TOPN### Russian stocks for the long position </li>
+	<li>Top ###TOPN### Russian stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Russian Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (02/12/2016 – 02/15/2015)
+<strong>I Know First Average: </strong>8.57%
+
+
+Gold & Commodity Forecast
+This Commodities Package is designed for investors who need commodity recommendations to find the best performing commodities in the industry. It includes ###TOPN2### ###KEYWORD1### with bullish or bearish signals indicating which are best to buy:
+<ul>
+ 	<li>Top ###TOPN### commodities for the long position</li>
+ 	<li>Top ###TOPN### commodities for the short position</li>
+</ul>
+<strong>Package Name:</strong> Commodities
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Commodities
+<strong>Forecast Length</strong>: 3 Months (06/17/16 - 09/17/16)
+<strong>I Know First Average</strong>: 8.68%
+
+Gold & Commodity Forecast
+This Commodity ETFs Package is designed for investors who need commodity recommendations to find the best performing commodity ETFs in the industry. It includes ###TOPN2### commodity ETFs with bullish or bearish signals indicating which are best to buy:
+<ul>
+ 	<li>Top ###TOPN### commodity ETFs for the long position</li>
+ 	<li>Top ###TOPN### commodity ETFs for the short position</li>
+</ul>
+<strong>Package Name:</strong> Commodities
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Commodity ETFs
+<strong>Forecast Length</strong>: 3 Months (06/17/16 - 09/17/16)
+<strong>I Know First Average</strong>: 8.68%
+
+Gold & Commodity Forecast
+This Commodity Futures Package is designed for investors who need commodity recommendations to find the best performing commodity futures in the industry. It includes ###TOPN2### commodity futures with bullish or bearish signals indicating which are best to buy:
+<ul>
+ 	<li>Top ###TOPN### commodity futures for the long position</li>
+ 	<li>Top ###TOPN### commodity futures for the short position</li>
+</ul>
+<strong>Package Name:</strong> Commodities
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Commodity Futures
+<strong>Forecast Length</strong>: 3 Months (06/17/16 - 09/17/16)
+<strong>I Know First Average</strong>: 8.68%
+
+Gold & Commodity Forecast
+This Gold forecast is part of the Commodities Package, one of I Know First's algorithmic trading solutions. This package gives ###KEYWORD1### predictions for Gold and other precious metals for the various forecasted time frames and includes our algorithmic outlook for:
+<ul>
+ 	<li>Gold ETF (GLD) direction</li>
+ 	<li>Physical Gold (XAU) direction</li>
+	<li>Silver (XAG) direction</li>
+</ul>
+<img class="alignright wp-image-38329" src="https://iknowfirst.com/wp-content/uploads/2016/05/gold-300x98.png" alt="Gold Forecast" width="165" height="54" />
+<strong>Package Name:</strong> Gold Forecast
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Gold
+<strong>Forecast Length</strong>: 3 Months (06/17/16 - 09/17/16)
+<strong>I Know First Average</strong>: 8.68%
+
+Healthcare
+This Healthcare Stocks Package is designed for investors and analysts who need predictions of the best shares within the Healthcare Sector. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best healthcare stocks to buy and sell:
+<ul>
+ 	<li>Top ###TOPN### HealthCare stocks for the long position</li>
+ 	<li>Top ###TOPN### HealthCare stocks for the short position</li>
+</ul>
+
+<img class="alignright wp-image-38329" src="https://iknowfirst.com/wp-content/uploads/2016/06/Healthcare.png" alt="Healthcare" width="165" height="54" />
+<strong>Package Name:</strong> HealthCare Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (08/19/2016 – 09/19/2016)
+<strong>I Know First Average:</strong> 13.61%
+
+
+Hedge Fund Stocks
+This Hedge Fund Stocks Package is designed for investors and analysts who need predictions of the best-performing stocks according to I Know First's stock market algorithm. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best stocks to long and short based on artificial intelligence trading strategies:
+<ul>
+ 	<li>Top ###TOPN### Hedge Fund stocks for the long position</li>
+ 	<li>Top ###TOPN### Hedge Fund stocks for the short position</li>
+</ul>
+<img class=" wp-image-37919 alignright" src="https://iknowfirst.com/wp-content/uploads/2016/05/hedgefunds.png" alt="hedgefunds" width="165" height="54" />
+<strong>Package Name: </strong>Hedge Fund Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (05/27/16 – 08/27/16)
+<strong>I Know First Average</strong>: 20.28%
+
+
+Options
+This forecast is part of the Options Package, as one of I Know First's algorithmic trading tools. The full Top ###TOPN### Options forecast includes daily predictions for the best options to buy for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Call Options</li>
+ 	<li>Top ###TOPN### Put Options</li>
+</ul>
+<img class="alignright wp-image-38089" src="https://iknowfirst.com/wp-content/uploads/2016/06/Options-.png" alt="Options" width="186" height="61" />
+<strong>Package Name:</strong> Options
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length: </strong> 3 Days (08/03/2016 – 08/06/2016)
+<strong>I Know First Average</strong>: 5.01%
+
+
+Home Builders
+This Home Builders Stocks Package is designed for investors and analysts who need predictions of the best performing stocks for the whole Home Builders sector. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best Home Builders stocks to buy:
+<ul>
+	<li>Top ###TOPN### Home Builders stocks for the long position</li>
+	<li>Top ###TOPN### Home Builders stocks for the short position</li>
+</ul>
+
+<strong>Package Name:</strong> Home Builders Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 14 Days (11/17/15 – 12/01/15)
+<strong>I Know First Average:</strong> 6.01%
+
+
+Hong Kong Stock Forecast
+This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+	<li>Top ###TOPN### Hong Kong stocks for the long position </li>
+	<li>Top ###TOPN### Hong Kong stocks for the short position </li>
+</ul>
+<strong>Package Name:</strong>By Country – Hong Kong Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Hong Kong Stock Forecast
+<strong>Forecast Length:</strong> 3 months (9/7/15 – 12/7/15)
+<strong>I Know First Average</strong>: 22.91%
+
+Hong Kong Stock Forecast
+This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### Hong Kong stocks selected from MSCI index with bullish and bearish signals:
+<ul>
+	<li>Top ###TOPN### MSCI - Hong Kong stocks for the long position </li>
+	<li>Top ###TOPN### MSCI - Hong Kong stocks for the short position </li>
+</ul>
+<strong>Package Name:</strong>By Country – Hong Kong Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> MSCI - Hong Kong Stock Forecast
+<strong>Forecast Length:</strong> 3 months (9/7/15 – 12/7/15)
+<strong>I Know First Average</strong>: 22.91%
+
+Indian Stock Forecast
+Top Performing Indian Stocks: This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+	<li>Top ###TOPN### Indian stocks for the long position </li>
+	<li>Top ###TOPN### Indian stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Indian Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (9/8/15 – 12/8/15)
+<strong>I Know First Average</strong>: 17.86%
+
+
+Indices Forecast
+This stock market forecast is part of the World Indices Package, as one of I Know First's quantitative investment solutions. We determine our world indices forecast by screening our database daily using our advanced algorithm. The full World Indices Package includes a daily forecast for a total of ###TOPN2### indices with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### World Indices for the long position </li>
+ 	<li>Top ###TOPN### World Indices for the short position </li>
+</ul>
+<img class="alignright wp-image-36936" src="https://iknowfirst.com/wp-content/uploads/2016/05/Indices-Forecast.png" alt="Indices Forecast" width="165" height="54" />
+<strong>Package Name: </strong>World Indices
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months  (05/29/2016 – 08/29/2016)
+<strong>I Know First Average:</strong> 8.98%
+
+Indonesian Stocks
+Top Performing Indonesian Stocks: This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+	<li>Top ###TOPN### Indonesian stocks for the long position </li>
+	<li>Top ###TOPN### Indonesian stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Indonesian Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (9/8/15 – 12/8/15)
+<strong>I Know First Average</strong>: 17.86%
+
+Insider Trades
+An insider is legally permitted to buy and sell shares of the firm – and any subsidiaries – that employs him or her. However, these transactions must be properly registered with the Securities and Exchange Commission (SEC) and are done with advance filings. You can find details of this type of insider trading on the SEC's EDGAR database. This algorithmic forecast is for stocks with recently reported insiders' transactions.
+An "insider" is any person who possesses at least one of the following:
+<ul>
+ 	<li>access to valuable non-public information about a corporation (for example a company's directors and high-level executives)</li>
+ 	<li>ownership of more than 10% of the company's equity</li>
+</ul>
+<img class="alignright wp-image-36855" src="https://iknowfirst.com/wp-content/uploads/2016/05/Insider-Trading.png" alt="insider trading" width="165" height="54" />
+<strong>Package Name: </strong>Insiders Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length: </strong>3 Months (06/14/16 – 09/14/16)
+<strong>I Know First Average:</strong> 15.78%
+
+
+Insurance Companies Forecast
+The Insurance Companies Package is designed for investors and analysts who need stock advice for the best-performing stocks in the Insurance Company Industry. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best insurance companies' stocks to trade:
+<ul>
+ 	<li>Top ###TOPN### Insurance Company stocks for the long position</li>
+ 	<li>Top ###TOPN### Insurance Company stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-36918" src="https://iknowfirst.com/wp-content/uploads/2016/05/Insurance-Companies.png" alt="insurance" width="165" height="54" />
+<strong>Package Name:</strong> Insurance Companies
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (08/12/2016 – 09/12/2016)
+<strong>I Know First Average:</strong> 9.40%
+
+
+Interest Rates Forecast
+The Interest Rate Package includes predictions for various interest rates based on the I Know First algorithm.
+<ul>
+</ul>
+<strong>Package Name:</strong> Interest Rates<strong>
+Time Horizon:</strong> 7 Days (09/07/16 – 09/14/16)
+<strong>I Know First Average:</strong> 7.88%
+
+
+
+International Stocks
+This international stocks forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### international stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### international stocks for the long position </li>
+ 	<li>Top ###TOPN### international stocks for the short position </li>
+</ul>
+<strong>Package Name:</strong>International Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 14 Days (08/30/2016 – 09/13/2016)
+<strong>I Know First Average:</strong> 5.68%
+
+
+Israeli Stocks
+This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Israeli stocks for the long position </li>
+ 	<li>Top ###TOPN### Israeli stocks for the short position </li>
+</ul>
+<img class="alignright wp-image-38544" src="https://iknowfirst.com/wp-content/uploads/2016/06/Israeli-Stocks.png" alt="Israeli Stocks" width="165" height="54" />
+<strong>Package Name: </strong>By Country - Israeli Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (05/13/2016 – 06/13/2016)
+<strong>I Know First Average: </strong>8.73%
+
+Italian Stocks
+This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### Italian stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Italian stocks for the long position </li>
+ 	<li>Top ###TOPN### Italian stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Italian Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (05/13/2016 – 06/13/2016)
+<strong>I Know First Average: </strong>8.73%
+
+Medicine Stocks
+The Medicine Stocks Package is designed for investors and analysts who need predictions for the best stocks to buy in the Medicine Industry. It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best medicine stocks to trade:
+<ul>
+ 	<li>Top ###TOPN### Medicine stocks for the long position</li>
+ 	<li>Top ###TOPN### Medicine stocks for the short position</li>
+</ul>
+
+<img class="alignright wp-image-38187" src="https://iknowfirst.com/wp-content/uploads/2016/06/medicine-stocks.png" width="165" height="54" />
+<strong>Package Name:</strong> Medicine Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 14 Days (09/02/16– 09/16/16)
+<strong>I Know First Average:</strong> 7.05%
+
+
+Mega Cap Forecast
+This stock market forecast includes the best stocks determined by the algorithm with a market capitalization of more than $100 billion.
+<ul>
+	<li>Top ###TOPN### Mega Cap stocks for the long position</li>
+	<li>Top ###TOPN### Mega Cap stocks for the short position</li>
+</ul>
+<strong>Package Name:</strong> Mega Cap Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Year (01/19/2015 - 01/19/2016)
+<strong>I Know First Average:</strong> 16.59%(Long), 25.26%(Short)
+
+
+Microsoft Stock Forecast
+
+
+
+MLP Stocks
+An MLP, or Master Limited Partnership, is a limited partnership that is publicly traded on a national securities exchange. MLPs are typically run by a general partner while a limited partner provides capital for the business. Generally, investors receive a stable yield on investments in MLPs with the opportunity to participate in business upside.
+This package provides algorithmic forecasts for MLP stocks based on market data.
+
+<img class="alignright wp-image-37253" src="https://iknowfirst.com/wp-content/uploads/2016/05/mlp-stocks-icon.jpg" alt="Stock Forecast Algorithm" width="165" height="54" />
+<strong>Package Name: </strong>MLP Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (04/17/16 – 07/17/16)
+<strong>I Know First Average: </strong>27.09%
+
+MSCI Stocks Universe
+This forecast is part of MSCI Stocks Universe Package and it is designed for investors and analysts who need predictions for MSCI ACWI stocks currently trading on Eastern stock markets, such as Japan, Singapore and Hong Kong. This forecast is part of the MSCI Eastern Stocks Subpackage, one of I Know First's algorithmic trading tools. The MSCI Stocks Unvierse is based on MSCI ACWI Index (part of the Modern Index Strategy) and captures all sources of equity returns in 23 developed and 24 emerging markets.
+<ul>
+    <li>Top ###TOPN### MSCI Eastern stocks for the long position </li>
+    <li>Top ###TOPN### MSCI Eastern stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>MSCI Stocks Universe - Eastern Markets
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Eastern Markets
+<strong>Forecast Length:</strong> 3 Days (02/12/2016 – 02/15/2015)
+<strong>I Know First Average: </strong>8.57%
+
+MSCI Stocks Universe
+This forecast is part of MSCI Stocks Universe Package and it is designed for investors and analysts who need predictions for MSCI ACWI stocks currently trading on Western stock markets, such as Germany, France and the USA. This forecast is part of the MSCI Western Stocks Subpackage, one of I Know First's algorithmic trading tools. The MSCI Stocks Universe is based on MSCI ACWI Index (part of the Modern Index Strategy) and captures all sources of equity returns in 23 developed and 24 emerging markets.
+<ul>
+    <li>Top ###TOPN### MSCI Western stocks for the long position </li>
+    <li>Top ###TOPN### MSCI Western stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>MSCI Stocks Unvierse - Western Markets
+<strong>Recommended Positions:</strong> Long
+<strong>Subpackage:</strong> Western Markets
+<strong>Forecast Length:</strong> 3 Days (02/12/2016 – 02/15/2015)
+<strong>I Know First Average: </strong>8.57%
+
+Oil Forecast
+<strong>Recommended Long and Short Positions</strong>
+<ul>
+	<li>ICE Brent Crude Oil Futures (B1) direction</li>
+	<li>Crude Oil (CL1) direction</li>
+</ul>
+<strong>Package Name: </strong>Oil Forecast<strong>
+Forecast Length:</strong> 1 month (12/20/15 - 01/20/16)
+<strong>I Know First Average:</strong> 13.25%
+
+
+Pharma Stocks Forecast
+This stock forecast is designed for investors and analysts who need predictions of the best stocks for the whole Pharmaceutical sector (see Pharma Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best pharmaceutical stocks to trade:
+
+<ul>
+ 	<li>Top ###TOPN### Pharmaceutical stocks for the long position</li>
+ 	<li>Top ###TOPN### Pharmaceutical stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-37007" src="https://iknowfirst.com/wp-content/uploads/2016/05/Pharma-Stocks-Forecast-1.png" alt="Pharma Stocks Forecast" width="165" height="54" />
+<strong>Package Name:</strong> Pharma Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (09/16/16 – 09/19/16)
+<strong>I Know First Average:</strong> 9.37%
+
+Robinhood Trades
+This forecast is part of the Rabinhood Trades Package, one of I Know First's algorithmic trading tools. The full investment universe includes the most traded stocks by Robinhood stock trading platform users. Based on it, I Know First AI Algorithm identifies the most promising stocks and produces forecasts that include: 
+<ul>
+    <li>Top ###TOPN### stocks from Robinhood Trades for the long position </li>
+    <li>Top ###TOPN### stocks from Robinhood Trades for the short position </li>
+</ul>
+<strong>Package Name: </strong>Robinhood Trades
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (02/12/2016 – 02/15/2015)
+<strong>I Know First Average: </strong>8.57%
+
+S&P 100 Stocks
+This S&amp;P 100 stocks forecast is designed for investors and analysts who need predictions for the best large cap performing stocks in the S&amp;P100 Company Package (see S&amp;P100 Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best S&amp;P100 Companies stocks to buy:
+<ul>
+	<li>Top ###TOPN### S&amp;P100 stocks for the long position</li>
+	<li>Top ###TOPN### S&amp;P100 stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-36745" src="https://iknowfirst.com/wp-content/uploads/2016/05/SP-100.png" alt="S&amp;P 100" width="165" height="54" />
+<strong>Package Name:</strong> S&amp;P100 Companies
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (05/06/16 – 05/10/16)
+<strong>I Know First Average:</strong> 2.29%
+
+Saudi Arabian Stocks
+Best Saudi Arabian Stocks: This South African Stock forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes a daily prediction for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+	<li>Top ###TOPN### Saudi Arabian Stocks for the long position </li>
+	<li>Top ###TOPN### Saudi Arabian Stocks for the short position </li>
+</ul>
+
+<strong>Package Name: </strong>By Country - Saudi Arabian Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (7/10/15 – 8/10/15)
+<strong>I Know First Average</strong>: 6.14%
+
+
+Small Cap Forecast
+The Small Cap Package includes recommendations by the I Know First algorithm for small cap stocks to buy with a market capitalization of less than $1 billion:
+<ul>
+ 	<li>Top ###TOPN### Small Cap stocks to buy for the long position</li>
+ 	<li>Top ###TOPN### Small Cap stocks to buy for the short position</li>
+</ul>
+<img class="alignright wp-image-36394" src="https://iknowfirst.com/wp-content/uploads/2016/11/small-cap-stocks-300x98.jpg" alt="" width="165" height="54" />
+<strong>Package Name: </strong>Small Cap Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (09/15/16– 09/18/16)
+<strong>I Know First Average</strong>: 5.16%
+
+South African Stocks
+Best South African Stocks: This South African Stock forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes a daily prediction for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+	<li>Top ###TOPN### South African stocks for the long position </li>
+	<li>Top ###TOPN### South African stocks for the short position </li>
+</ul>
+
+<strong>Package Name: </strong>By Country - South African Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (7/10/15 – 8/10/15)
+<strong>I Know First Average</strong>: 6.14%
+
+Spanish Stocks
+This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### Spanish stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Spanish stocks for the long position </li>
+ 	<li>Top ###TOPN### Spanish stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Spanish Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (05/13/2016 – 06/13/2016)
+<strong>I Know First Average: </strong>8.73%
+
+
+Stock Forecast & S&P500 Forecast
+This forecast is part of the Top ###TOPN### Stocks Package, as one of I Know First's systematic trading tools. The full package includes a daily prediction for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### stocks pick for the long position</li>
+ 	<li>Top ###TOPN### stocks pick for the short position</li>
+</ul>
+<img class="wp-image-41750 size-full alignright" src="https://iknowfirst.com/wp-content/uploads/2016/07/top-10-stocks_small.jpg" width="144" height="47" />
+<strong>Package Name:</strong> Top ###TOPN### Stocks
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 – 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+Stocks Under $5
+This stock forecast is part of the Stocks Under 5 Dollars Package, as one of I Know First's algorithmic trading tools. The full package includes daily predictions for a total of ###TOPN2### ###KEYWORD1### stocks with bullish and bearish signals:
+<ul>
+ 	<li> Top ###TOPN### stocks for the long position </li>
+ 	<li> Top ###TOPN### stocks for the short position </li>
+</ul>
+<img class="alignright wp-image-36628" src="https://iknowfirst.com/wp-content/uploads/2017/03/icon5-dollars-2.gif" alt="under 5" width="150" height="49" />
+<strong>Package Name:</strong> Stocks Under 5 Dollars
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Months (04/26/2016 -07/26/2016)
+<strong>I Know First Average</strong>: 50.18%
+
+Stocks Under $50
+This forecast is part of the Stocks Under 50 Dollars Package, as one of I Know First's forecast services. The full package includes daily stock predictions for a total of ###TOPN2### ###KEYWORD1### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### stocks for the long position </li>
+ 	<li>Top ###TOPN### stocks for the short position </li>
+</ul>
+<img class="alignright wp-image-36409" src="https://iknowfirst.com/wp-content/uploads/2016/11/Under-10-300x98.jpg" alt="" width="165" height="54" />
+<strong>Package Name: </strong>Stocks Under 50 Dollars
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 1 Year (09/17/15 - 09/17/16)
+<strong>I Know First Average:</strong> 46.70%
+
+Stocks Under $20
+This forecast is part of the Stocks Under 20 Dollars Package, as one of I Know First's forecast services. The full package includes daily stock predictions for a total of ###TOPN2### ###KEYWORD1### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### stocks for the long position </li>
+ 	<li>Top ###TOPN### stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>Stocks Under 20 Dollars
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 1 Year (09/17/15 - 09/17/16)
+<strong>I Know First Average:</strong> 46.70%
+
+Stocks Under $10
+This forecast is part of the Stocks Under 10 Dollars Package, as one of I Know First's forecast services. The full package includes daily stock predictions for a total of ###TOPN2### ###KEYWORD1### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### stocks for the long position </li>
+ 	<li>Top ###TOPN### stocks for the short position </li>
+</ul>
+<img class="alignright wp-image-36409" src="https://iknowfirst.com/wp-content/uploads/2016/11/Under-10-300x98.jpg" alt="" width="165" height="54" />
+<strong>Package Name: </strong>Stocks Under 10 Dollars
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 1 Year (09/17/15 - 09/17/16)
+<strong>I Know First Average:</strong> 46.70%
+
+Swiss Stocks
+This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### Swiss stocks with bullish and bearish signals:
+
+<ul>
+	<li>Top ###TOPN### Swiss stocks for the long position </li>
+	<li>Top ###TOPN### Swiss stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Swiss Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 3 Days (02/12/2016 – 02/15/2015)
+<strong>I Know First Average: </strong>8.57%
+
+Tech Stocks Forecast
+This Tech Stock forecast is based on stock picking strategies for investors and analysts who need predictions for the 10 best tech stocks in the Technology Industry (see Tech Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Tech stocks for the long position</li>
+ 	<li>Top ###TOPN### Tech stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-37247 size-full" src="https://iknowfirst.com/wp-content/uploads/2016/05/Tech-Stocks-165.jpg" alt="Tech Stocks 165" width="165" height="54" />
+<strong>Package Name:</strong> Tech Stocks
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length</strong>: 90 Days (06/19/2016 – 09/19/2016)
+<strong>I Know First Average:</strong> 16.49%
+
+
+Transportation Stocks
+This Transportation Stocks forecast is designed for investors and analysts who need predictions for the best stocks to invest in the transport sectors (see Transportation Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Transportation stocks for the long position</li>
+ 	<li>Top ###TOPN### Transportation stocks for the short position</li>
+</ul>
+<img class="wp-image-43340 alignright" src="https://iknowfirst.com/wp-content/uploads/2016/11/Transportation-Stocks-300x98.jpg" alt="Transportation Stocks" width="233" height="76" />
+<strong>Package Name: </strong>Transportation Stocks
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/15/16 – 09/15/16)
+<strong>I Know First Average</strong>: 36.63%
+
+Turkish Stock Forecast
+This forecast is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+
+<ul>
+ 	<li>Top ###TOPN### Turkish stocks for the long position </li>
+ 	<li>Top ###TOPN### Turkish stocks for the short position </li>
+</ul>
+<strong>Package Name: </strong>By Country - Turkish Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (05/13/2016 – 06/13/2016)
+<strong>I Know First Average: </strong>8.73%
+
+
+UK Stock Forecast
+This forecast for UK Stocks is part of the By Country Package, as one of I Know First's neural network trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### UK stocks for the long position </li>
+ 	<li>Top ###TOPN### UK stocks for the short position </li>
+</ul>
+<img class="wp-image-39582 size-full alignright" src="https://iknowfirst.com/wp-content/uploads/2016/06/UK-Stocks-3.jpg" alt="UK Stock Forecast" width="165" height="54" />
+<strong>Package Name: </strong>By Country - UK Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 14 Days (06/19/16 – 07/03/16)
+<strong>I Know First Average</strong>: 12.38%
+
+
+US Sector Indices Forecast
+This algorithmic forecast is part of the US Sector Indices Package, as one of I Know First's quantitative investment solutions. We determine our US sector indices picks by screening our database daily using our advanced algorithm. The full US Sector Indices Package includes a daily forecast for a total of ###TOPN2### indices with bullish and bearish signals:
+
+<ul>
+ 	<li>Top ###TOPN### US Sector Indices for the long position </li>
+ 	<li>Top ###TOPN### US Sector Indices for the short position </li>
+</ul>
+<strong>Package Name: </strong>US Sector Indices
+<strong>Recommended Positions:</strong>Long
+
+
+Volatility Forecast
+Volatility Forecast: This Volatility forecast is designed for investors and analysts who need predictions of the implied volatility for a basket of put and call options related to a specific index. It includes 8 volatility indices with bullish and bearish signals and indicates the best Volatility Index to trade:
+<ul>
+ 	<li>Volatility indices for the long position</li>
+ 	<li>Volatility indices for the short position</li>
+</ul>
+
+<img class="size-full wp-image-39602 alignright" src="https://iknowfirst.com/wp-content/uploads/2016/06/Volatility-Forecast.jpg" alt="Volatility Forecast" width="165" height="54" />
+<strong>Package Name:</strong> Volatility
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 14 Days (08/28/16 – 09/11/16)
+<strong>I Know First Average</strong>:12.26%
+
+<span style="color: #0000ff;"><strong style="color: #0a0a0a;"><span style="color: #0000ff; text-decoration: underline;"><a href="https://lpage.iknowfirst.com">Get the “Volatility” Package.</a></span></strong></span>
+
+S&P500 Companies
+
+This top S&amp;P 500 stocks forecast is designed for investors and analysts who need predictions for the whole S&amp;P 500 (See S&amp;P 500 Companies Package). It includes ###TOPN2### stocks with bullish and bearish signals and indicates the best S&amp;P 500 Companies stocks to buy:
+<ul>
+ 	<li>Top ###TOPN### S&amp;P 500 stocks for the long position</li>
+ 	<li>Top ###TOPN### S&amp;P 500 stocks for the short position</li>
+</ul>
+<img class="alignright wp-image-38201" src="https://iknowfirst.com/wp-content/uploads/2016/06/sp500-300x98.png" alt="sp500" width="165" height="54" />
+<strong>Package Name:</strong> S&amp;P 500 Companies
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 14 Days (07/11/16 – 07/25/16)
+<strong>I Know First Average:</strong> 6.31%
+
+Warren Buffett Portfolio
+This Warren Buffett Stocks Portfolio is part of the Buffett's Top ###TOPN### Package, as one of I Know First's quantitative investment solutions. Investors generally utilize the I Know First advanced self-learning algorithm to take advantage of Warren Buffett's proven investing strategy. The full Top ###TOPN### Warren Buffett's Stocks Package includes the best stocks identified by the algorithm that are currently in Warren Buffett's portfolio:
+
+<ul>
+ 	<li>Top ###TOPN### Warren Buffett's stocks for long position</li>
+ 	<li>Top ###TOPN### Warren Buffett's stocks for short position</li>
+</ul>
+<img class="alignright wp-image-36946" src="https://iknowfirst.com/wp-content/uploads/2016/05/Warren-Buffett-Portfolio-.png" alt="Warren Buffett Portfolio" width="165" height="54" />
+<strong>Package Name:</strong> Warren Buffett Stocks
+<strong>Recommended Positions:</strong> Long
+<strong>Forecast Length:</strong> 1 Month (05/23/2016 – 06/23/2016)
+<strong>I Know First Average:</strong> 10.30%
+
+
+Apple Stock Forecasts
+This forecast is the Apple Stock forecast from Nov 15th, 2015 to Feb 15th, 2016
+<address style="text-align: center;"><span style="color: #0a0a0a;"><strong><a href="https://apple-stock-news.com/landing/">Get the Apple Stock forecast.</a></strong></span></address>
+<strong>Package Name:</strong> Apple Stock
+<strong>Recommended Positions:</strong> Short
+<strong>Forecast Length:</strong> 3 Months (11/15/15 – 02/15/16)
+<strong>I Know First Average:</strong> 4.31%
+
+Real Estate Stock Forecast
+This Real Estate Stocks forecast is designed for investors and analysts who need predictions for the best stocks to invest in the real estate sector (see Real Estate Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Real Estate stocks for the long position</li>
+ 	<li>Top ###TOPN### Real Estate stocks for the short position</li>
+</ul>
+<img class=" wp-image-94837 alignright" src="https://iknowfirst.com/wp-content/uploads/2017/02/real-estate-industry-logo.jpg" alt="" width="82" height="67" />
+<strong>Package Name: </strong>Real Estate Stocks
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/15/16 – 09/15/16)
+<strong>I Know First Average</strong>: 36.63%
+
+Tech Giants Stocks Forecast
+This Tech Giants Stocks forecast is designed for investors and analysts who need predictions for the best stocks to invest in the Tech Giants sector (see Tech Giants Stocks Package). It includes ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Tech Giants' stocks for the long position</li>
+ 	<li>Top ###TOPN### Tech Giants' stocks for the short position</li>
+</ul>
+<img class=" wp-image-94837 alignright" src="https://iknowfirst.com/wp-content/uploads/2017/02/big-tech-logo.jpg" alt="" width="82" height="67" />
+<strong>Package Name: </strong>Tech Giants' Stocks
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/15/16 – 09/15/16)
+<strong>I Know First Average</strong>: 36.63%
+
+Singaporean Stock Forecast
+This forecast for Singaporean Stocks is part of the By Country Package, as one of I Know First's neural network trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Singaporean stocks for the long position</li>
+ 	<li>Top ###TOPN### Singaporean stocks for the short position</li>
+</ul>
+<strong>Package Name: </strong>By Country - Singaporean Stock Forecast
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/15/16 – 09/15/16)
+<strong>I Know First Average</strong>: 36.63%
+
+Taiwanese Stock Forecast
+This forecast for Taiwanese Stocks is part of the By Country Package, as one of I Know First's neural network trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Taiwanese stocks for the long position</li>
+ 	<li>Top ###TOPN### Taiwanese stocks for the short position</li>
+</ul>
+<strong>Package Name: </strong>By Country - Taiwanese Stock Forecast
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/15/16 – 09/15/16)
+<strong>I Know First Average</strong>: 36.63%
+
+Shenzhen Stock Forecast
+This forecast for Shenzen Stocks is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Shenzhen stocks for the long position</li>
+ 	<li>Top ###TOPN### Shenzhen stocks for the short position</li>
+</ul>
+<strong>Package Name: </strong>By Country - Shenzhen Stock Forecast
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/15/16 – 09/15/16)
+<strong>I Know First Average</strong>: 36.63%
+
+Shanghai Stock Forecast
+This forecast for Shanghai Stocks is part of the By Country Package, as one of I Know First's algorithmic trading tools. The full forecast includes daily predictions for a total of ###TOPN2### stocks with bullish and bearish signals:
+<ul>
+ 	<li>Top ###TOPN### Shanghai stocks for the long position</li>
+ 	<li>Top ###TOPN### Shanghai stocks for the short position</li>
+</ul>
+<strong>Package Name: </strong>By Country - Shanghai Stock Forecast
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/15/16 – 09/15/16)
+<strong>I Know First Average</strong>: 36.63%

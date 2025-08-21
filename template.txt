@@ -1,0 +1,22 @@
+<h2>Deep Learning Trading</h2>
+<p style="text-align: justify;">The PACKAGE_NAME Package is one of I Know First's unique quantitative investment solutions. The full PACKAGE_NAME Package includes a daily forecast for a total of 20 indices with bullish and bearish signals:</p>
+
+<ul style="color: #0a0a0a;">
+ 	<li>Top 10 PACKAGE_NAME ASSET_TYPE for the long position</li>
+ 	<li>Top 10 PACKAGE_NAME ASSET_TYPE for the short position</li>
+</ul>
+<strong>Package Name: </strong>PACKAGE_NAME
+<strong>Recommended Positions: </strong>FORECAST_TYPE
+<strong>Forecast Length: </strong>FORECAST_LENGTH (START_DATE - END_DATE)
+<strong>I Know First Average: </strong>PACKAGE_RETURN%
+<a href="http://lpage.iknowfirst.com/" rel="attachment wp-att-35019"><img class="aligncenter wp-image-37141 size-full" src="HEATMAP_URL" alt="Deep Learning Trading" width="555" height="474"></a>
+
+For this FORECAST_LENGTH forecast the algorithm had successfully predicted HIT_NUM out of 10 movements. The highest trade return came from <em>F_BEST_ASSET</em>, at F_BEST_RETURN%. The suggested trades for <em>SEC_BEST_ASSET</em> and <em>THIRD_BEST_ASSET</em> also had notable FORECAST_LENGTH yields of SEC_BEST_RETURN% and THIRD_BEST_RETURN%, respectively. The overall average return in this PACKAGE_NAME package was PACKAGE_RETURN%, providing investors with a OUT_PERFORMANCE% premium over the BENCHMARK_NAME return of BENCHMARK_RETURN% during the same period.
+
+COMPANY_INFO
+
+<em>Algorithmic traders utilize these daily forecasts by the I Know First market prediction system as a tool to enhance portfolio performance, verify their own analysis and act on market opportunities faster. This forecast was sent to current I Know First subscribers.</em>
+<h2 class="\&quot;p1\&quot;" style="\&quot;text-align:" center;\"=""><a href="https://iknowfirst.com/stock-market-predictions-how-to-interpret-the-i-know-first-diagram">How to interpret this diagram</a></h2>
+<strong>Algorithmic Stock Forecast:</strong> The table on the left is a stock forecast produced by I Know First's algorithm. Each day, subscribers receive forecasts for six different time horizons. Note that the top 10 stocks in the 1-month forecast may be different than those in the 1-year forecast. In the included table, only the relevant stocks have been included. The boxes are arranged according to their respective signal and predictability values (see below for detailed definitions). A green box represents a positive forecast, suggesting a long position, while a red represents a negative forecast, suggesting a short position.
+
+<strong>Please note-for trading decisions use the most recent forecast.&nbsp;</strong><a href="http://lpage.iknowfirst.com\"><strong><span style="\&quot;color:" #0000ff;\"="">Get today’s forecast and Top stock picks.</span></strong></a>
